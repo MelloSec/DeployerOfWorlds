@@ -1,0 +1,9 @@
+[submodule "vmailer"]
+	path = vmailer
+	url = https://github.com/mellosec/vmailer
+[submodule "sorrowset-tc2"]
+	path = sorrowset-tc2
+	url = https://github.com/mellosec/sorrowset-tc2
+[submodule "dkimpossiblev2"]
+	path = dkimpossiblev2
+	url = https://github.com/mellosec/dkimpossiblev2
